@@ -27,6 +27,7 @@ Order:
 */
 
 // To sort challenges in a category
+// Please add tag with difficulty for each challenge
 function customCategorySort(a, b) {
     const order = ["beginner", "easy", "medium", "hard"];
 
